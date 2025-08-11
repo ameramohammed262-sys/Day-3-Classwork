@@ -1,0 +1,21 @@
+:root{
+--primary-color:#ff9;
+--secondery-color:#ca7fff;
+--text-color:#ca7;
+}
+
+.container{
+background-color: aqua;
+width: 80%;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+font-size: 25px;
+border: 2px dotted #ca7fff;
+text-decoration: wavy;
+font-family: Arial, Helvetica, sans-serif;
+}
+a{
+text-decoration:none;
+color:bisque;
+}
